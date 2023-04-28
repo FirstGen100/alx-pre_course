@@ -1,0 +1,1 @@
+Getting startes with git
